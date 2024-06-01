@@ -1,6 +1,6 @@
-# Project Title
+# SOLIDITY PROJECT ASSESSMENT
 
-Simple overview of use/purpose.
+Solidity Ethereum My Token
 
 ## Description
 
